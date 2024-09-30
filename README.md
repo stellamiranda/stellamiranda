@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stellamiranda
 - 👀 I’m interested in Baking 👩‍🍳 - CrossFit 🏋️‍♀️ - Hiking 🥾
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Generative AI for Software Development.
 - 💞️ I’m looking to collaborate on Open Souce projects.
 - 📫 Reach me at [@fashionate](https://twitter.com/fashionate)
 
